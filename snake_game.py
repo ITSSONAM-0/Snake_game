@@ -2,17 +2,17 @@ import pygame
 import time
 import random
 
-# Initialize pygame
+
 pygame.init()
 
-# Colors
+
 white = (255, 255, 255)
 black = (0, 0, 0)
 red = (213, 50, 80)
 green = (0, 255, 0)
 blue = (50, 153, 213)
 
-# Screen size
+
 dis_width = 600
 dis_height = 400
 dis = pygame.display.set_mode((dis_width, dis_height))
